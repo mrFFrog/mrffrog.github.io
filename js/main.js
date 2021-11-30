@@ -1,3 +1,1 @@
-$(function(){
-    alert('goofying around:');
-})
+    alert('...');
